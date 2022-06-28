@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Julian!🚀</h1>
-<h4 align="center">I'm a fullstack developer currently based in Las Vegas, Nevada. I love to solve complex problems and collaborate with other great devs. When I'm not coding, I'm either rock climbing or golfing. Thanks for stopping by!</h4>
+<h3 align="center">I'm a fullstack developer currently based in Las Vegas, Nevada. I love to solve complex problems and collaborate with other great devs. When I'm not coding, I'm either rock climbing or golfing. Thanks for stopping by!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juliansrecent&label=Profile%20views&color=0e75b6&style=flat" alt="juliansrecent" /> </p>
 
