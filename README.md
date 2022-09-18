@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **any exciting projects!**
 
-- 👨‍💻 All of my projects are available at [https://github.com/JuliansRecent/portfolio](https://www.juliansegura12.com)
+- 👨‍💻 All of my projects are available at [www.juliansegura12.com](https://www.juliansegura12.com)
 
 - 📫 How to reach me **juliansrecent@gmail.com**
 
