@@ -5,13 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/juliansrecent" target="blank"><img src="https://img.shields.io/twitter/follow/juliansrecent?logo=twitter&style=for-the-badge" alt="juliansrecent" /></a> </p>
 
-- 🔭 I’m currently working on **portfolio-v2**
-
-- 🌱 I’m currently learning **Mongo and Mongoose**
-
 - 👯 I’m looking to collaborate on **any exciting projects!**
 
-- 👨‍💻 All of my projects are available at [https://github.com/JuliansRecent/portfolio](https://github.com/JuliansRecent/portfolio)
+- 👨‍💻 All of my projects are available at [https://github.com/JuliansRecent/portfolio](https://www.juliansegura12.com)
 
 - 📫 How to reach me **juliansrecent@gmail.com**
 
