@@ -1,11 +1,9 @@
 <h1 align="center">Hey, I'm Julian!🚀</h1>
-<h3 align="center">I'm a full stack developer currently based in Las Vegas, Nevada. I love to solve complex problems and collaborate with other great devs. When I'm not coding, I'm either rock climbing or golfing. Thanks for stopping by!</h3>
+<h3 align="center">I'm a backend developer currently based in Las Vegas, Nevada. When I'm not coding, I'm either rock climbing, spending time with family/friends or golfing. Thanks for stopping by!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juliansrecent&label=Profile%20views&color=0e75b6&style=flat" alt="juliansrecent" /> </p>
 
 <p align="left"> <a href="https://twitter.com/juliansrecent" target="blank"><img src="https://img.shields.io/twitter/follow/juliansrecent?logo=twitter&style=for-the-badge" alt="juliansrecent" /></a> </p>
-
-- 👯 I’m looking to collaborate on **any exciting projects!**
 
 - 👨‍💻 All of my projects are available at [www.julians-segura12.com](https://www.julian-segura12.com)
 
