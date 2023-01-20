@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juliansrecent&label=Profile%20views&color=0e75b6&style=flat" alt="juliansrecent" /> </p>
 
-<p align="left"> <a href="https://twitter.com/juliansrecent" target="blank"><img src="https://img.shields.io/twitter/follow/juliansrecent?logo=twitter&style=for-the-badge" alt="juliansrecent" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [www.julians-segura12.com](https://www.julian-segura12.com)
 
 - 📫 How to reach me **juliansrecent@gmail.com**
