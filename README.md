@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Julian!🚀</h1>
-<h3 align="center">I'm a backend developer currently based in Las Vegas, Nevada. When I'm not coding, I'm either rock climbing, spending time with family/friends or golfing. Thanks for stopping by!</h3>
+<h3 align="center">I'm a backend developer currently based in Las Vegas, Nevada. When I'm not coding, I'm either rock climbing, spending time with family/friends or golfing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juliansrecent&label=Profile%20views&color=0e75b6&style=flat" alt="juliansrecent" /> </p>
 
@@ -11,9 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/juliansrecent" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="juliansrecent" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/julian-segura12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julian-segura12" height="30" width="40" /></a>
-<a href="https://instagram.com/juju_segura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juju_segura" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
