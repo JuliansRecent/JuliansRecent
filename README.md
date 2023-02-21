@@ -1,5 +1,5 @@
-<h1 align="center">Hey, I'm Julian!🚀</h1>
-<h3 align="center">I'm a backend developer. When I'm not coding, I'm either rock climbing, golfing, or surfing.</h3>
+<h1 align="center">Hey there, my name is Julian!🚀</h1>
+<h3 align="center">My goal is to make a positive difference in the lives of everyone I come in contact with. Please reach out to me at juliansrecent@gmail.com if you have any questions or want to collaborate. :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juliansrecent&label=Profile%20views&color=0e75b6&style=flat" alt="juliansrecent" /> </p>
 
